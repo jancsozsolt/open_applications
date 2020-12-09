@@ -1,2 +1,2 @@
-# open_applications
-Application for open application on an application
+# double_app
+Application for open an applications twice under one window as children process.
